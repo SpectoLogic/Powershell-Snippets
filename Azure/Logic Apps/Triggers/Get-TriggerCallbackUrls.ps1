@@ -10,6 +10,8 @@
 #	$logicAppName...		Name of the LogicApp
 #	$$LibraryPath_ADAL...	Directory where Microsoft.IdentityModel.Clients.ActiveDirectory.dll is located
 #
+# Author:		Andreas Pollak 
+# Copyright:	(c) by SpectoLogic
 #########################################################################################################
 
 #Define variables
